@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - Love to learn new things, especially things related to Frontend stacks.
 - Enjoy working with ReactJS ❤ VueJS
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript VueJS, ReactJS...
+- 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript, VueJS, ReactJS...
 - 📫 How to reach me: tamvaa1306@gmail.com
 
 - My github stats:
