@@ -1,6 +1,6 @@
 # Hi 👋 !
 
-#### I'm [Tran Tam](https://github.com/owentr1369), currently working as a Frontend Developer in Ho Chi Minh City, Vietnam.
+#### I'm [Tran Tam](https://github.com/owentr1369), currently working as a Frontend Engineer in Ho Chi Minh City, Vietnam.
 
 <!--
 **owentr1369/owentr1369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
