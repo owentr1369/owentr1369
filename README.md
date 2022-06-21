@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning
 
 ### Frontend Technologies
+
 <div>
   <img src ="./images/html-5.svg" alt="HTML5 logo" width="4%" title='HTML5'/>
   <img src ="./images/css-3.svg" alt="CSS3 logo" width="4%" title='CSS3'/>
@@ -30,7 +31,27 @@ Here are some ideas to get you started:
   <img src ="./images/javascript.svg" alt="JavaScript logo" width="6%" title='JavaScript'/>
   <img src ="./images/es6.svg" alt="ES6 logo" width="6%" title='ES6'/>
   <img src ="./images/react.svg" alt="react logo" width="6%" title='React'/>
+	  <img src ="./images/vue.svg.png" alt="vue logo" width="6%" title='Vue'/>
   </div>
+  
+  ### Backend Technologies
+
+<div>
+  <img src ="./images/nodejs.svg" alt="Node logo" width="8%" title='Nodejs'/>
+  <img src ="./images/express.svg" alt="express logo" width="8%" title='Express'/>
+  <img src ="./images/mongodb.svg" alt="D3 logo" width="8%" title='MongoDB'/>
+</div>
+
+### Tools
+
+<div>
+  <img src ="./images/figma.svg" alt="Figma logo" width="4%" title='Figma'/>
+  <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="6%" title='Visual Studio Code'/>
+  <img src ="./images/git.svg" alt="Git logo" width="8%" title='Git'/>
+  <img src ="./images/eslint.svg" alt="ESLint logo" width="8%" title='ESLint'/>
+  <img src ="./images/webpack.svg" alt="Webpack logo" width="8%" title='Webpack'/>
+</div>
+
 - 📫 How to reach me: tamvaa1306@gmail.com
 
 - My github stats:
@@ -42,7 +63,7 @@ Here are some ideas to get you started:
 ![](https://i0.wp.com/s1.uphinh.org/2021/09/09/1a1d60ba032fca679a8bb71ebe5fa649.png)
 <a href="https://github.com/owentr1369">
     <img src="https://komarev.com/ghpvc/?username=owentr1369">
-	</a><a href="https://github.com/huykhangvo"></a>
+	</a><a href="https://github.com/owentr1369"></a>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="350px" />
 
 
