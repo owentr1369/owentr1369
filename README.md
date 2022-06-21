@@ -79,6 +79,11 @@ Here are some ideas to get you started:
 - Nâng cao: Branch, Merge
 - Conflict Resolving, Pull Request
 
+<br/>
+<br/>
+<br/>
+<br/>
+
 # SOURCE CONTROL/VERSION CONTROL LÀ GÌ ?
 - Hệ thống giúp lưu trữ mọi thay đổi của source code
 - Hỗ trợ nhiều người cùng làm việc cùng lúc
