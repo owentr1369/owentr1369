@@ -49,6 +49,7 @@ Here are some ideas to get you started:
   <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="6%" title='Visual Studio Code'/>
   <img src ="./images/git.svg" alt="Git logo" width="12%" title='Git'/>
   <img src ="./images/eslint.svg" alt="ESLint logo" width="6%" title='ESLint'/>
+  <img src ="./images/nodemon.svg" alt="Nodemon logo" width="8%" title='Nodemon'/> 
 </div>
 
 - 📫 How to reach me: tamvaa1306@gmail.com
