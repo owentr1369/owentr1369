@@ -28,18 +28,18 @@ Here are some ideas to get you started:
   <img src ="./images/html-5.svg" alt="HTML5 logo" width="4%" title='HTML5'/>
   <img src ="./images/css-3.svg" alt="CSS3 logo" width="4%" title='CSS3'/>
   <img src ="./images/sass.svg" alt="Sass logo" width="6%" title='Sass'/>
-  <img src ="./images/javascript.svg" alt="JavaScript logo" width="6%" title='JavaScript'/>
-  <img src ="./images/es6.svg" alt="ES6 logo" width="6%" title='ES6'/>
+  <img src ="./images/javascript.svg" alt="JavaScript logo" width="5%" title='JavaScript'/>
+  <img src ="./images/es6.svg" alt="ES6 logo" width="5%" title='ES6'/>
   <img src ="./images/react.svg" alt="react logo" width="6%" title='React'/>
-	  <img src ="./images/vue.svg.png" alt="vue logo" width="6%" title='Vue'/>
+  <img src ="./images/vuejs.svg.png" alt="vue logo" width="6%" title='Vue'/>
   </div>
   
   ### Backend Technologies
 
 <div>
   <img src ="./images/nodejs.svg" alt="Node logo" width="8%" title='Nodejs'/>
-  <img src ="./images/express.svg" alt="express logo" width="8%" title='Express'/>
-  <img src ="./images/mongodb.svg" alt="D3 logo" width="8%" title='MongoDB'/>
+  <img src ="./images/express.svg" alt="express logo" width="12%" title='Express'/>
+  <img src ="./images/mongodb.svg" alt="D3 logo" width="14%" title='MongoDB'/>
 </div>
 
 ### Tools
@@ -47,9 +47,8 @@ Here are some ideas to get you started:
 <div>
   <img src ="./images/figma.svg" alt="Figma logo" width="4%" title='Figma'/>
   <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="6%" title='Visual Studio Code'/>
-  <img src ="./images/git.svg" alt="Git logo" width="8%" title='Git'/>
-  <img src ="./images/eslint.svg" alt="ESLint logo" width="8%" title='ESLint'/>
-  <img src ="./images/webpack.svg" alt="Webpack logo" width="8%" title='Webpack'/>
+  <img src ="./images/git.svg" alt="Git logo" width="12%" title='Git'/>
+  <img src ="./images/eslint.svg" alt="ESLint logo" width="6%" title='ESLint'/>
 </div>
 
 - 📫 How to reach me: tamvaa1306@gmail.com
@@ -66,11 +65,9 @@ Here are some ideas to get you started:
 	</a><a href="https://github.com/owentr1369"></a>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="350px" />
 
+<br/>
+<br/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=owentr1369&theme=monokai)
-<br/>
-<br/>
-![](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png)
 <br/>
 ##TỪ GÀ ĐẾN PRO Git & Github
 - Tìm hiểu sơ về Version Control, Git & Github
@@ -92,13 +89,13 @@ Here are some ideas to get you started:
 - Ra đời  năm 2005
 - Tác giả Linus Torvald, hỗ trợ viết Linux Kernel
 - Toàn bộ code và History được lưu trữ trên máy người dùng
-- 3 khải niệm quan trọng: repo, commit, branch
+- 3 khái niệm quan trọng: repo, commit, branch
 
 ![git](https://www.sferalabs.cc/wp-content/uploads/github-logo-white-700x465.png)
 
 - `git init` Tạo ra 1 repository trong máy
 
-- `git status` Mình xem trạng thái
+- `git status` Xem trạng thái
 
 - `git add` `Tên file`
 
