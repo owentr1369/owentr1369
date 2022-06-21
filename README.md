@@ -20,7 +20,17 @@ Here are some ideas to get you started:
 - Love to learn new things, especially things related to Frontend stacks.
 - Enjoy working with ReactJS ❤ VueJS
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript, VueJS, ReactJS, NodeJS...
+- 🌱 I’m currently learning
+
+### Frontend Technologies
+<div>
+  <img src ="./images/html-5.svg" alt="HTML5 logo" width="4%" title='HTML5'/>
+  <img src ="./images/css-3.svg" alt="CSS3 logo" width="4%" title='CSS3'/>
+  <img src ="./images/sass.svg" alt="Sass logo" width="6%" title='Sass'/>
+  <img src ="./images/javascript.svg" alt="JavaScript logo" width="6%" title='JavaScript'/>
+  <img src ="./images/es6.svg" alt="ES6 logo" width="6%" title='ES6'/>
+  <img src ="./images/react.svg" alt="react logo" width="6%" title='React'/>
+  </div>
 - 📫 How to reach me: tamvaa1306@gmail.com
 
 - My github stats:
