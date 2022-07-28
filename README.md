@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - Love to learn new things, especially things related to Frontend stacks.
 - Enjoy working with ReactJS ❤ VueJS
 
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning:
 
 ### Frontend Technologies
 
@@ -98,21 +98,3 @@ Here are some ideas to get you started:
 - 3 khái niệm quan trọng: repo, commit, branch
 
 ![git](https://www.sferalabs.cc/wp-content/uploads/github-logo-white-700x465.png)
-
-- `git init` Tạo ra 1 repository trong máy
-
-- `git status` Xem trạng thái
-
-- `git add` `Tên file`
-
-- git commit -m "`index.html file`"
-
-- `git remote add origin` `Đường dẫn`
-
-- `git push -u origin main`
-
-- `git clone` + **đường dẫn** Lấy từ trên mạng về
-
-- `git pull`  Đồng bộ từ trên mạng về máy
-
-- `git push` Đồ bộ từ máy repository trên mạng
