@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 # SOURCE CONTROL/VERSION CONTROL LÀ GÌ ?
 - Hệ thống giúp lưu trữ mọi thay đổi của source code
 - Hỗ trợ nhiều người cùng làm việc cùng lúc
-- Xem đứa nào thay đổi code(Rất tiện khi cần tìm thằng đồng đội)
+- Xem đứa nào thay đổi code (Rất tiện khi cần tìm thằng đồng đội)
 - Revert các thay đổi, đưa code về version cũ hơn, không lo mất code
 
 #Git là gì ?
