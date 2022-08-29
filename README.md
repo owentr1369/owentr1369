@@ -32,8 +32,8 @@ Here are some ideas to get you started:
   <img src ="./images/es6.svg" alt="ES6 logo" width="5%" title='ES6'/>
   <img src ="./images/react.svg" alt="react logo" width="6%" title='React'/>
   <img src ="./images/vuejs.svg.png" alt="vue logo" width="6%" title='Vue'/>
-    <img src ="./images/Bootstrap_logo.svg.png" alt="vue logo" width="6%" title='Bootstrap'/>
-      <img src ="./images/Tailwind_CSS_Logo.svg.png" alt="vue logo" width="8%" title='TailwindCSS'/>
+  <img src ="./images/Bootstrap_logo.svg.png" alt="vue logo" width="6%" title='Bootstrap'/>
+  <img src ="./images/tailwindcss.svg.png" alt="vue logo" width="8%" title='TailwindCSS'/>
   </div>
   
   ### Backend Technologies
