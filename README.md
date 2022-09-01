@@ -68,35 +68,5 @@ Here are some ideas to get you started:
 	</a><a href="https://github.com/owentr1369"></a>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="350px" />
 
-<br/>
-<br/>
-
-<br/>
-##TỪ GÀ ĐẾN PRO Git & Github
-- Tìm hiểu sơ về Version Control, Git & Github
-- Cài đặt Git trên máy
-
-- Cơ bản: Tạo Github Repository & Clone
-- Pull & Push
-
-- Nâng cao: Branch, Merge
-- Conflict Resolving, Pull Request
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-# SOURCE CONTROL/VERSION CONTROL LÀ GÌ ?
-- Hệ thống giúp lưu trữ mọi thay đổi của source code
-- Hỗ trợ nhiều người cùng làm việc cùng lúc
-- Xem đứa nào thay đổi code (Rất tiện khi cần tìm thằng đồng đội)
-- Revert các thay đổi, đưa code về version cũ hơn, không lo mất code
-
-#Git là gì ?
-- Ra đời  năm 2005
-- Tác giả Linus Torvald, hỗ trợ viết Linux Kernel
-- Toàn bộ code và History được lưu trữ trên máy người dùng
-- 3 khái niệm quan trọng: repo, commit, branch
 
 ![git](https://www.sferalabs.cc/wp-content/uploads/github-logo-white-700x465.png)
