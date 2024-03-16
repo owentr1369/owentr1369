@@ -58,10 +58,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: tamvaa1306@gmail.com
 
-- My github stats:
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=owentr1369&theme=radical)
-
 
 ####  Views and Followers
 ![](https://i0.wp.com/s1.uphinh.org/2021/09/09/1a1d60ba032fca679a8bb71ebe5fa649.png)
