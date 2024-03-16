@@ -65,6 +65,3 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=owentr1369">
 	</a><a href="https://github.com/owentr1369"></a>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="350px" />
-
-
-![git](https://www.sferalabs.cc/wp-content/uploads/github-logo-white-700x465.png)
