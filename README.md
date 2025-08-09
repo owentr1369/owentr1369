@@ -31,19 +31,26 @@ Here are some ideas to get you started:
   <img src ="./images/css-3.svg" alt="CSS3 logo" width="4%" title='CSS3'/>
   <img src ="./images/sass.svg" alt="Sass logo" width="6%" title='Sass'/>
   <img src ="./images/javascript.svg" alt="JavaScript logo" width="5%" title='JavaScript'/>
-  <img src ="./images/es6.svg" alt="ES6 logo" width="5%" title='ES6'/>
+	<img src ="./images/typescript.png" alt="TypeScript logo" width="5%" title='TypeScript'/>
+	<img src ="./images/es6.svg" alt="ES6 logo" width="5%" title='ES6'/>
   <img src ="./images/react.svg" alt="react logo" width="6%" title='React'/>
   <img src ="./images/vuejs.svg.png" alt="vue logo" width="6%" title='Vue'/>
   <img src ="./images/Bootstrap_logo.svg.png" alt="vue logo" width="6%" title='Bootstrap'/>
-  <img src ="./images/Tailwind_CSS_Logo.svg.png" alt="vue logo" width="5%" title='TailwindCSS'/>
+  <img src ="./images/Tailwind_CSS_Logo.svg.png" alt="vue logo" width="6%" title='TailwindCSS'/>
+	<img src ="./images/antd.svg" alt="Ant Design logo" width="5%" title='Ant Design'/>
+	  <img src ="./images/next-js.svg" alt="Next.js logo" width="5%" title='Next.js'/>
+	  <img src ="./images/mui.png" alt="MUI Design logo" width="6%" title='MUI Design'/>
   </div>
   
   ### Backend Technologies
 
-<div>
+<div style="display: flex; align-items: center; gap: 8px;">
   <img src ="./images/nodejs.svg" alt="Node logo" width="8%" title='Nodejs'/>
   <img src ="./images/express.svg" alt="express logo" width="12%" title='Express'/>
   <img src ="./images/mongodb.svg" alt="D3 logo" width="14%" title='MongoDB'/>
+	  <img src ="./images/mongoose.png" alt="D3 logo" width="8%" title='Mongoose'/>
+ <img src ="./images/nestjs.svg" alt="NestJS logo" width="5%" title='NestJS'/>
+	
 </div>
 
 ### Tools
@@ -51,6 +58,7 @@ Here are some ideas to get you started:
 <div>
   <img src ="./images/figma.svg" alt="Figma logo" width="4%" title='Figma'/>
   <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="6%" title='Visual Studio Code'/>
+	<img src ="./images/cursorai.png" alt="Cursor AI logo" width="6%" title='Cursor AI'/>
   <img src ="./images/git.svg" alt="Git logo" width="12%" title='Git'/>
   <img src ="./images/eslint.svg" alt="ESLint logo" width="6%" title='ESLint'/>
   <img src ="./images/nodemon.svg" alt="Nodemon logo" width="5%" title='Nodemon'/> 
