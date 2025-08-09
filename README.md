@@ -72,4 +72,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/owentr1369">
     <img src="https://komarev.com/ghpvc/?username=owentr1369">
 	</a><a href="https://github.com/owentr1369"></a>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="350px" />
+<img align="right" alt="GIF" src="https://i.ibb.co/hGVP0Pc/Chat-GPT-Image-Aug-9-2025-08-56-10-PM.png" width="350px" />
