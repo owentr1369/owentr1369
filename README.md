@@ -69,7 +69,11 @@ Here are some ideas to get you started:
 
 ####  Views and Followers
 ![](https://i0.wp.com/s1.uphinh.org/2021/09/09/1a1d60ba032fca679a8bb71ebe5fa649.png)
+
+
+
 <a href="https://github.com/owentr1369">
     <img src="https://komarev.com/ghpvc/?username=owentr1369">
 	</a><a href="https://github.com/owentr1369"></a>
-<img align="right" alt="GIF" src="https://i.ibb.co/hGVP0Pc/Chat-GPT-Image-Aug-9-2025-08-56-10-PM.png" width="350px" />
+
+![1755501582074](https://github.com/user-attachments/assets/0497fa58-460d-4ade-bee9-30c0986f13d4)
